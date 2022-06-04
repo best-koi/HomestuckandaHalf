@@ -17,7 +17,7 @@ h2 {
  color: black;
 }
 
-P.blocktext {
+.blocktext {
     margin-left: auto;
     margin-right: auto;
     width: 8em
