@@ -14,11 +14,13 @@ h1 {
 h2 {
  font-size: 16px;
  text-align: center;
- color: #81D4FA;
+ color: black;
 }
 
-div chat {
+.box chat {
   background-color: #E0E0E0;
+  text-align: left;
+  max-width: 600px;
 }
 
 header {
@@ -45,21 +47,18 @@ header nav ul li {
   color: #B2BEB5 ;
   font-family: courier, monospace;
   font-weight: bold;
-  text-align: center;
 }
 
 .andori {
   color: #D81B60;
   font-family: courier, monospace;
   font-weight: bold;
-  text-align: center;
 }
 
 .emei {
   color: #6082B6;
   font-family: courier, monospace;
   font-weight: bold;
-  text-align: center;
 }
 
 .center {
