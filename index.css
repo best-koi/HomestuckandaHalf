@@ -7,7 +7,7 @@ body {
 
 h1 {
  font-size: 18px;
- text-align: center;
+ text-align: left;
  color: black;
 }
 
@@ -17,10 +17,8 @@ h2 {
  color: black;
 }
 
-.box chat {
-  background-color: #E0E0E0;
-  text-align: left;
-  max-width: 600px;
+p {
+  text-align: center
 }
 
 header {
@@ -44,7 +42,7 @@ header nav ul li {
 }
 
 .sean {
-  color: #B2BEB5 ;
+  color: #2E7D32;
   font-family: courier, monospace;
   font-weight: bold;
 }
